@@ -68,7 +68,7 @@ const Footer = () => {
         <div className="flex flex-col items-center">
           <h1 className="font-bold text-lg">Contact Links</h1>
           <a href="/">+91 844 558 9271</a>
-          <p>kapil012002@gmail.com</p>
+          <p>example@gmail.com</p>
         </div>
       </div>
     </footer>
